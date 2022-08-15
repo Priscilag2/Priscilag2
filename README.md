@@ -1,7 +1,7 @@
 ## Ola! Eu sou a Priscila Maia
 
 - 🎓 Hoje estudo front-end
-- 🤓 focado em react-native
+- 🤓 focada em Javascript
 - 😄 pronouns ela/dela
 
 <div>
